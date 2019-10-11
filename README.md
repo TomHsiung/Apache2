@@ -7,6 +7,7 @@ A powerful web service
 3) `ports.conf` file is another place that define the ports (http and https) used by the Apache web server.
 4) `apache2.conf.change.document.root` file is where to set the root specific directory of Apache web server, the place where you will store your website data.
 5) `default-ssl.rewrite.urls.conf` file is an example to enable support for friendly URLs (rewrite URLs with mod_rewrite).
+6) `generate.keys.ssl` file exemplify how to generate commerical CA keys.
 
 # Test the configuration
 You can test if your Apache web server is correctly configured by
