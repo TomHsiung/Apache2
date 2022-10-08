@@ -1,0 +1,2 @@
+# Disable PHP mods
+a2dismod phpX.x
