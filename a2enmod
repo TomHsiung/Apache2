@@ -1,2 +1,2 @@
 # Enable PHP mods
-a2enmod phpx.x
+a2enmod phpX.x
